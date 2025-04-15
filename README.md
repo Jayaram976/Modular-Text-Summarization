@@ -112,6 +112,7 @@ This document contains insights derived from the summarization output and ROUGE 
 ##  Improve the Model Performace
 
 - Fine-tune model on a larger dialogue dataset.
+- Add BLEU/BERTScore support.
 
 ---
 
