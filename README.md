@@ -57,7 +57,7 @@ python app.py
 
 ---
 
-## 🧮 Evaluation Metric
+##  Evaluation Metric
 
 - ROUGE-1
 - ROUGE-2
