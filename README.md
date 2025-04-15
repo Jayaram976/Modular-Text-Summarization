@@ -1,6 +1,6 @@
 #  Text Summarization Pipeline using Local LLM
 
-This project implements a complete pipeline for abstractive text summarization using a self-hosted LLM. I used datasets like CNN_Dailymail and evaluates summaries using ROUGE metrics.
+This project implements a complete pipeline for abstractive text summarization using a self-hosted LLM. It used datasets like CNN_DailyMail and evaluates summaries using ROUGE metrics.
 
 ---
 
